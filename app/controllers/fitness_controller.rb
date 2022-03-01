@@ -1,0 +1,2 @@
+class FitnessController < ApplicationController
+end
