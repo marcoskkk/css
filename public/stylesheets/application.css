@@ -1,0 +1,27 @@
+h1 {
+    color:rgb(77, 0, 150);
+    font-size: 70px;
+}
+
+p {
+    font-size: 36px;
+    color:grey;
+}
+
+p a {
+    color:black;
+}
+
+.taco {
+    color: green
+}
+
+#boba {
+    color:palevioletred
+}
+/*ids takes priority over classes*/
+/*you can only have one element with that id*/
+
+#grogu {
+    color:rgb(223, 70, 121)
+}
